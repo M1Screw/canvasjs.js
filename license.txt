@@ -1,5 +1,5 @@
 *
-* @preserve CanvasJS HTML5 & JavaScript Charts - v3.2 GA - https://canvasjs.com/ 
+* @preserve CanvasJS HTML5 & JavaScript Charts - v3.2.6 GA - https://canvasjs.com/ 
 * Copyright 2020 fenopix
 *
 *  --------------------- License Information --------------------
